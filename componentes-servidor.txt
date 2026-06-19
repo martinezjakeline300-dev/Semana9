@@ -1,0 +1,14 @@
+Sistema operativo
+Es la base que gestiona el hardware, la memoria y el acceso a la red. Permite que el servidor reciba peticiones y ejecute procesos de forma ordenada y segura.
+ 
+ Node.js
+ Entorno que corre código JavaScript en el servidor, fuera del navegador. Procesa peticiones de forma rápida y asíncrona, ideal para servicios web.
+  
+  Aplicación  server.js 
+  Es el programa principal: define rutas, reglas y respuestas. Conecta todas las funciones para que el servicio cumpla su objetivo.
+   
+   Puerto
+   Es la “puerta” de comunicación numérica por donde entran y salen los datos. Permite que varios servicios convivan sin interferirse.
+    
+    Logs
+    Registran todo lo que pasa: accesos, errores y tiempos de respuesta. Ayudan a detectar fallos, investigar problemas y mejorar la seguridad.

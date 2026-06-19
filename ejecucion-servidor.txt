@@ -1,0 +1,5 @@
+- Al ejecutar  node server.js : Se inicia el servidor y queda activo esperando peticiones en el puerto configurado.
+
+- Mensaje en terminal: Aparece algo como  Servidor en http://localhost:3000  o un aviso de error si falla.
+
+- Al visitar  /estado : Recibes la respuesta JSON:
